@@ -49,8 +49,6 @@ cp .env-example .env
 ```
 python3 -c "import secrets; print(secrets.token_hex(32))
 ```
-- xAI API key – get one [here](https://console.x.ai/)
-- Instagram credentials - just a data for a Instagram account
 
 3) Run the server:
 ```
